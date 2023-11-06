@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="room_menu_button" type="id" />
+    <item name="RoomsBind" type="id" />
+    <item name="room_name" type="id" />
+    <item name="device_sum" type="id" />
+    <item name="imageButton_up" type="id" />
+    <item name="imageButton_stop" type="id" />
+    <item name="imageButton_down" type="id" />
+    <item name="imageButton_down1" type="id" />
+    <item name="image_room" type="id" />
+</resources>
